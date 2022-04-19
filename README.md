@@ -1,10 +1,10 @@
 [![MasterHead](https://media.istockphoto.com/vectors/programming-coding-programming-banner-vector-id623898896)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm AT UMAR</h1>
 <h3 align="center">A passionate full stack java developer</h3>
-<img mg align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300"/>
+<img mg align="right" alt="Coding" width="200" height="200" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=atumar4031" alt="atumar4031" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=atumar4031" alt="atumar4031" /></a> </p> -->
 
 
 
