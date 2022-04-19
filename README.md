@@ -2,7 +2,7 @@
 
 <!-- [![MasterHead](https://i.pinimg.com/736x/d0/be/39/d0be39e73f90dfc3e9e6b95fdc08c746.jpg)](https://rishavchanda.io) -->
 
-<h1 align="center">Hi 👋, I'm AT UMAR</h1>
+<h1 align="center">Hi 👋, I'm A.T. UMAR</h1>
 <h3 align="center">A passionate full stack java developer</h3>
 <img mg align="right" alt="Coding" width="200" height="200" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300"/>
 
