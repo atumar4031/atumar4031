@@ -1,6 +1,6 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReaXjoyOGXT7PhYDmQM5Y0mX2tzsdGh_jKIA&usqp=CAU)
+<!-- [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReaXjoyOGXT7PhYDmQM5Y0mX2tzsdGh_jKIA&usqp=CAU) -->
 
-<!-- [![MasterHead](https://i.pinimg.com/736x/d0/be/39/d0be39e73f90dfc3e9e6b95fdc08c746.jpg)](https://rishavchanda.io) -->
+[![MasterHead](https://i.pinimg.com/736x/d0/be/39/d0be39e73f90dfc3e9e6b95fdc08c746.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm A.T. UMAR</h1>
 <h3 align="center">A passionate full stack java developer</h3>
