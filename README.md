@@ -1,4 +1,4 @@
-[![MasterHead](https://scontent-los2-1.xx.fbcdn.net/v/t39.30808-6/278890344_2212278058939718_2575999603779682237_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_ohc=WoMt5YkTj5kAX8zkDO4&tn=c9QkhuMNYTAlG3NV&_nc_ht=scontent-los2-1.xx&oh=00_AT8ec2kv7gIW5_jd4D439mpuMtjfNgnuYZPi5O8pevgn3w&oe=626319FC)](https://rishavchanda.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReaXjoyOGXT7PhYDmQM5Y0mX2tzsdGh_jKIA&usqp=CAU)
 
 <!-- [![MasterHead](https://i.pinimg.com/736x/d0/be/39/d0be39e73f90dfc3e9e6b95fdc08c746.jpg)](https://rishavchanda.io) -->
 
