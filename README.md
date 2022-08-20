@@ -1,5 +1,3 @@
-[![MasterHead]([https://res.cloudinary.com/k-tech/image/upload/v1661037478/portfolion-app_i6gnzr.png](https://res.cloudinary.com/k-tech/image/upload/v1661037478/portfolion-app_i6gnzr.png))
-
 [![MasterHead](https://res.cloudinary.com/k-tech/image/upload/v1661037478/portfolion-app_i6gnzr.png)
 
 <h1 align="center">Hi 👋, I'm A.T. UMAR</h1>
