@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Java community app**
 
-- 👨‍💻 All of my projects are available at [https://atumar4031.github.io/portfolio/](under_upgarade)
+- 👨‍💻 All of my projects are available at [https://atumar4031.github.io/attechportfolio/]
 
 - 💬 Ask me about **Java, Spring framework, React and Mysql**
 
