@@ -1,6 +1,6 @@
-[![MasterHead]([https://res.cloudinary.com/k-tech/image/upload/v1661037478/portfolion-app_i6gnzr.png](https://media-exp1.licdn.com/dms/image/C4E16AQH8Yj9H_kLaWQ/profile-displaybackgroundimage-shrink_200_800/0/1650584356994?e=1658966400&v=beta&t=KRh3ht25DNEdTMIyo6KXiDdE7b9nkmg4fN-vQbLPdCo))
+[![MasterHead]([https://res.cloudinary.com/k-tech/image/upload/v1661037478/portfolion-app_i6gnzr.png](https://res.cloudinary.com/k-tech/image/upload/v1661037478/portfolion-app_i6gnzr.png))
 
-<!-- [![MasterHead](https://i.pinimg.com/736x/d0/be/39/d0be39e73f90dfc3e9e6b95fdc08c746.jpg)](https://rishavchanda.io) -->
+[![MasterHead](https://i.pinimg.com/736x/d0/be/39/d0be39e73f90dfc3e9e6b95fdc08c746.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm A.T. UMAR</h1>
 <h3 align="center">A passionate full stack java developer</h3>
