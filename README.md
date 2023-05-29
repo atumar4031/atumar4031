@@ -1,7 +1,7 @@
 ![MasterHead](https://res.cloudinary.com/k-tech/image/upload/v1661037478/portfolion-app_i6gnzr.png)
 
 <h1 align="center">👋👋👋</h1>
-<h3 align="center">A passionate full stack java developer</h3>
+<h3 align="center">A Passionate Java Software Engineer</h3>
 <img mg align="right" alt="Coding" width="200" height="200" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300"/>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
